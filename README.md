@@ -1,1 +1,5 @@
-# FANet
+# FANet: A Feedback Attention Network for Improved Biomedical ImageSegmentation
+Nikhil Kumar Tomar, Debesh Jha, Michael A. Riegler, Håvard D. Johansen, Dag Johansen,  Pål Halvorsen and  Sharib Ali
+
+## Abstract
+Recently,  deep learning based medical image analysis,particularly, biomedical image segmentation has attractedsubstantial  attention  in  the  computer  vision  community.Even  though  convolutional  neural  networks  have  shownprogress, there still exists unleashed opportunities for im-provement.  While, current networks focus on a systematicone-way epoch wise training, predictions from the previousepoch remains unexplored.  In this work, we leverage eachepoch information to prune the prediction maps of the sub-sequent training epoch.  In this context, we propose a newarchitecture  called  feedback  attention  network  “FANet”that unifies the previous epoch mask with the feature mapof the current epoch, similar to a recurrent learning mech-anism, which is then used to provide a hard-attention to thelearnt feature maps at different convolution layers. We showthat our proposed feedback-attention model provides a sub-stantial improvement for most segmentation metrics on pub-licly available biomedical imaging datasets
