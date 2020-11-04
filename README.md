@@ -1,7 +1,5 @@
 # FANet: A Feedback Attention Network for Improved Biomedical ImageSegmentation
-This repository is a PyTorch implementation for our CVPR2020 paper.
-
-Authors: Nikhil Kumar Tomar, Debesh Jha, Michael A. Riegler, Håvard D. Johansen, Dag Johansen,  Pål Halvorsen and  Sharib Ali
+Authors: [Nikhil Kumar Tomar](https://www.linkedin.com/in/nktomar/), [Debesh Jha](https://www.linkedin.com/in/debesh-jha-071462aa/), Michael A. Riegler, Håvard D. Johansen, Dag Johansen,  Pål Halvorsen and  Sharib Ali
 
 
 
