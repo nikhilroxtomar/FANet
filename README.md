@@ -8,5 +8,3 @@ Authors: [Nikhil Kumar Tomar](https://www.linkedin.com/in/nktomar/), [Debesh Jha
 - CHASE DB1
 - 2018 Data Science Bowl
 - ISIC 2018
-- Montgomery Dataset
-- Shenzhen Dataset
