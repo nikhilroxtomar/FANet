@@ -1,5 +1,5 @@
 # FANet: A Feedback Attention Network for Improved Biomedical Image Segmentation
-Authors: Nikhil Kumar Tomar, Debesh Jha, Michael A. Riegler, Håvard D. Johansen, Dag Johansen,  Pål Halvorsen and  Sharib Ali
+Authors: Nikhil Kumar Tomar, Debesh Jha, Michael A. Riegler, Håvard D. Johansen, Dag Johansen, Jens Rittscher, Pål Halvorsen and  Sharib Ali
 <br/>
 Research paper: [https://arxiv.org/pdf/2103.17235.pdf](https://arxiv.org/pdf/2103.17235.pdf)
 
