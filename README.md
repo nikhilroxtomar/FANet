@@ -20,5 +20,8 @@ The increase of available large clinical and exper- imental datasets has contrib
 - [ISIC 2018](https://challenge2018.isic-archive.com/task1/)
 - [EM](https://imagej.net/events/isbi-2012-segmentation-challenge)
 
+## Qualitative results
+![qualitative result](files/qualitative_result.png)
+
 ## Contact
 Please contact nikhilroxtomar@gmail.com and debesh@simula.no for any further questions. 
