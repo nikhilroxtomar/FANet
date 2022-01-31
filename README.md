@@ -24,7 +24,7 @@ The increase of available large clinical and exper- imental datasets has contrib
 ![qualitative result](files/qualitative_result.png)
 
 ## Citation
-Please cite our paper if you find the work useful: 
+Please cite our paper if you find it useful: 
 <pre>
   @article{tomar2021fanet,
   title={Fanet: A feedback attention network for improved biomedical image segmentation},
