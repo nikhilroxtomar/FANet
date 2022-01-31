@@ -23,5 +23,16 @@ The increase of available large clinical and exper- imental datasets has contrib
 ## Qualitative results
 ![qualitative result](files/qualitative_result.png)
 
+## Citation
+Please cite our paper if you find the work useful: 
+<pre>
+  @article{tomar2021fanet,
+  title={Fanet: A feedback attention network for improved biomedical image segmentation},
+  author={Tomar, Nikhil Kumar and Jha, Debesh and Riegler, Michael A and Johansen, H{\aa}vard D and Johansen, Dag and Rittscher, Jens and Halvorsen, P{\aa}l and Ali, Sharib},
+  journal={arXiv preprint arXiv:2103.17235},
+  year={2021}
+}
+</pre>
+
 ## Contact
 Please contact nikhilroxtomar@gmail.com and debesh@simula.no for any further questions. 
