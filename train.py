@@ -195,7 +195,7 @@ if __name__ == "__main__":
     train_loader = DataLoader(
         dataset=train_dataset,
         batch_size=batch_size,
-        shuffle=True,
+        shuffle=False,
         num_workers=2
     )
 
